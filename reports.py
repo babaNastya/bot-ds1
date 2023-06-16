@@ -85,4 +85,4 @@ class Recruitement(commands.Cog):
 
 bot.add_cog(Recruitement(bot))
 
-bot.run("MTExODg2MDE3Njk0NzE1MDkyMA.GOYQ20.Kn3XaRSAKl3gBtwGLA_lu63TFAOVSM2A-t_q94")
+bot.run("MTExODg2MDE3Njk0NzE1MDkyMA.GIV5gr.jxdvZuKkvXWBKyc3bf_t6ErM2s2RIntWsGjWIE")
